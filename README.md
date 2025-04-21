@@ -74,21 +74,11 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
 
-![alt text](<Screenshot 2025-03-28 093408.png>)
+![image](https://github.com/user-attachments/assets/57852fb0-91d4-4ec8-be81-9d57a647e5f7)
 
-- Select a folder to see the recovered files (e.g., `K:\DFDI-Extracted`).  
-- Image is recovered successfully.
+- Click OS Account
+![image](https://github.com/user-attachments/assets/edcd4199-f4cf-4629-a27d-c103ff52b8be)
 
-
-## Output :
-### Folder before deleting the files
-![alt text](<Screenshot 2025-03-28 094853.png>)
-
-### Folder after deleting the files
-![alt text](<Screenshot 2025-03-28 094903.png>)
-
-### Folder after extracting the deleted images using autopsy
-![alt text](<Screenshot 2025-03-28 103946.png>)
 
 ## Result:
 Successfully extracted the deleted files from unallocated space using the Autospy tool.
