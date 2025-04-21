@@ -1,7 +1,30 @@
-# Surveying and Preserving the Digital Crime Scene
+# EXP 3 : INSTALL AUTOPSY AND ANALYSIS THE DISK, FILE AND FOLDER CONFIGURATION
 
-## **Aim:**
-Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
+## AIM:
+To install Autopsy software on windows operating system and analyse the file and folder configuration.
+
+## EQUIPMENT REQUIRED:
+● Hardware: Personal Computer (PC)
+```
+Register Number:212223100018
+Name: Kathir anand S
+```
+## DESIGN STEPS:
+### Step 1:
+Install Autopsy using the terminal with the command:
+
+### Step 2:
+Launch Autopsy from the terminal or application menu and create a new case.
+
+### Step 3:
+Add a disk image or file to the case and analyze the contents such as deleted files, metadata, and folder structure.
+
+## INSTALLATION PROCEDURE:
+### Step1:Download Autopsy
+• Visit Autopsy Official Website and download the latest version.
+
+• Double-click the downloaded file and follow the on-screen instructions.
+![image](https://github.com/user-attachments/assets/bda3bdb7-d438-44f2-9547-7ef0d2de18ce)
 
 ## **Implementation steps:**
 
